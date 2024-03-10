@@ -11,6 +11,7 @@ Dataset available at: https://huggingface.co/datasets/readerbench/ro-stories
 - feature_extraction_selection.py - to extract ReaderBench Textual Complexity Indices and select top top 100 indices via Kruskal-Wallis Mean Rank
 - ensemble_learning_ft.py & ensemble_learning_pp.py - combines 7 ML models with soft vote function to generate improved predictions (ft-full text; pp-paragraphs)
 - hybrid_transformer_ft.py & hybrid_transformer_pp.py - hybrid transformer model, combining text inputs and linguistic features to predict the author of a given text (ft-full text; pp-paragraphs)
+- stats directory contains the results of McNemar's and Cochran's Q statistical tests
 
 # usage
 

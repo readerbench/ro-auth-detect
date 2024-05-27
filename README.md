@@ -22,5 +22,4 @@ Dataset available at: https://huggingface.co/datasets/readerbench/ro-stories
 
 # paper
 
-Cite this as: ...
-(paper to be uploaded soon)
+Cite this as: Nitu M, Dascalu M. Authorship Attribution in Less-Resourced Languages: A Hybrid Transformer Approach for Romanian. Applied Sciences. 2024; 14(7):2700. https://doi.org/10.3390/app14072700
